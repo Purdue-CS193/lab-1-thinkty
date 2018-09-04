@@ -1,4 +1,11 @@
 ## Welcome to GitHub Pages
+# Tae Yoon's first CS193 Lab
+## Tae Yoon's first CS193 Lab
+### Tae Yoon's first CS193 Lab
+
+- I like coding
+- I like small classes
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
